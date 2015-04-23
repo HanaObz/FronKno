@@ -1,0 +1,159 @@
+body {
+  font-family: Anke, Helvetica, sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+h1 {
+	margin: 0;
+	padding-top: 20px;
+	font-size: 55px;
+}
+footer {
+  height: 40px;
+  padding-top: 5px;
+  background: url('../Backgrounds/bbbb.jpg') center repeat;
+  border-top: 1px solid black;
+  width: 110%;
+}
+
+footer p {
+  font-size: 14px;
+  margin-left: 30px;
+  color: white;
+}
+
+/*Header*/
+header {
+	background-size: 110% auto; 
+	padding-top: 0px;
+	text-align: center;
+	height: 100px;
+}
+
+.title {
+	height: 50px;
+	padding: 10px 0; 
+}
+.title h1 {
+
+}
+
+/*Navigation*/
+nav {
+	background: url('../Backgrounds/bbbb.jpg') center top repeat;
+}
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+nav ul li {
+	display: inline-block;
+	padding: 10px;
+
+}
+nav ul li a {
+	color: white;
+	text-decoration: none;
+}
+nav ul li a:hover {
+	color: purple;
+}
+
+/*Main Page*/
+#googleMap{
+	height: 200px;
+	width: 100%;
+	background-color: purple;
+}
+.twitter {
+	float: right;
+
+}
+.insta {
+	float: right;
+}
+
+/*About Page*/
+img {
+	height: 180px;
+	width: auto;
+	padding: 10px;
+}
+.hdr {
+	text-align: center;
+	height: 100px;
+	padding: 10px;
+}
+.hdr h1 {
+	padding: 15px;
+}
+.hdr h2 {
+	background: url('../Backgrounds/bbbb.jpg') center top repeat;
+	background: 110% auto;
+	color: white;
+	margin: 0;
+	padding: 10px;
+	font-size: 18px;
+}
+.hdr a {
+	text-decoration: none;
+	color: black;
+}
+.hdr a:hover {
+	color: purple;
+}
+.active {
+	color: purple;
+}
+
+.about {
+	padding: 30px 40px;
+}
+.main {
+	height: 900px;
+}
+.what {
+	padding: 20px;
+
+}
+.what ul {
+
+}
+.what ul li {
+
+}
+.history {
+
+}
+.history ol {
+
+}
+.history ol li {
+
+}
+.summary {
+
+}
+.summary a {
+
+}
+.summary a:hover {
+
+}
+.aboutFooter {
+
+}
+.fro {
+	float: right;
+}
+.bighair {
+	float: left;
+}
+.short {
+	float: right;
+}
+.braids {
+	float: left;
+}
